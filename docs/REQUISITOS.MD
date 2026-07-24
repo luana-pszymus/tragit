@@ -28,3 +28,5 @@ Liste as tabelas previstas e seus principais campos.
  
 ## 7. Fora do escopo
 O que o sistema NAO fara neste semestre.
+
+===============================================================================================================================================================
